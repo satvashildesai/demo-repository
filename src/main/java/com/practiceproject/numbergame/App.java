@@ -1,5 +1,8 @@
 package com.practiceproject.numbergame;
 
+//git branch -M main
+//git push -u origin main
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
